@@ -1,4 +1,5 @@
 # UcStudentNumberValidator
+[![Build Status](https://travis-ci.org/wachunei/uc_student_number_validator.svg?branch=master)](https://travis-ci.org/wachunei/uc_student_number_validator)
 
 [uc_student_number](https://rubygems.org/gems/uc_student_number) validation for ActiveModel
 
